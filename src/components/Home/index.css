@@ -1,0 +1,14 @@
+.home {
+  text-align: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.home-dark {
+  background-color: black;
+  color: white;
+}
+
+.home img {
+  width: 20%;
+}

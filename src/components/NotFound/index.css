@@ -1,0 +1,21 @@
+.not-found {
+  text-align: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.not-found-dark {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.not-found img {
+  width: 20%;
+}
+
+.not-found-dark img {
+  width: 20%;
+}

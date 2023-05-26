@@ -1,0 +1,43 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 20px;
+}
+
+.navbar-light {
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+
+.link-light {
+  text-decoration: none;
+  margin-right: 30px;
+  color: black;
+}
+
+.link-dark {
+  text-decoration: none;
+  margin-right: 30px;
+  color: white;
+}
+
+.navbar-dark {
+  background-color: #333333;
+  color: white;
+}
+
+.navbar img {
+  width: 40px;
+}
+
+.navbar button {
+  border: none;
+  background-color: transparent;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}

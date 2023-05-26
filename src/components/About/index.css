@@ -1,0 +1,14 @@
+.about {
+  text-align: center;
+  padding: 30px;
+  height: 100vh;
+}
+
+.about-dark {
+  background-color: black;
+  color: white;
+}
+
+.about img {
+  width: 20%;
+}
